@@ -16,7 +16,8 @@ iii. application/database.php (for database setting);
 
 and if you are using Ion_auth it will also be changed.  
 Tested in codeigniter + Ion Auth Envoirnment.  
-
+#ScreenShot  
+![ScreenShot](https://github.com/abdulmanan7/auto_install_ci/master/screenshot.png)  
 |
 |
 for more help contact me at my twetter account @abdulmanan7.
