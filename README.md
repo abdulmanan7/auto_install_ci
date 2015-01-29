@@ -14,7 +14,8 @@ i. application/Config.php(for encryption key and base Url);
 ii. application/route.php (for default controller);  
 iii. application/database.php (for database setting);  
 
-and if you are using Ion_auth it will also be overwrite it'content as well.  
+and if you are using Ion_auth it will also be changed.  
+Tested in codeigniter + Ion Auth Envoirnment.  
 
 |
 |
